@@ -16,3 +16,6 @@
 [14-Oct-2017 04:06:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/survey/index.php on line 49
 [14-Oct-2017 04:06:31 UTC] PHP Stack trace:
 [14-Oct-2017 04:06:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/survey/index.php:0
+[17-Oct-2017 23:46:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/survey/index.php on line 52
+[17-Oct-2017 23:46:26 UTC] PHP Stack trace:
+[17-Oct-2017 23:46:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/survey/index.php:0

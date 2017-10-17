@@ -4,6 +4,7 @@ body{
 #header{
     text-align: center;
     font-size: 35pt;
+    text-shadow: red;
 }
 
 input[type=submit] {

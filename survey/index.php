@@ -13,6 +13,7 @@
 <html>
     <head>
         <title>Personal INFO</title>
+        <link rel="stylesheet" href="styles.css">
     </head>
 <body>
     <header id="header">SIMPLE SURVEY</header>
